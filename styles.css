@@ -1,0 +1,62 @@
+body {
+    color:rgb(6, 6, 91);
+    background:black;
+    margin: 0px;
+    font-family:"2 font families selected";
+    margin-bottom: 100px;
+    
+}
+
+header {
+    border-bottom: solid 4px rgb(225, 17, 163);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(24, 193, 176);
+}
+h1{
+    font-size: 40px;
+}
+
+.chamada{
+    background: rgb(132, 17, 240);
+    padding-bottom: 80px;
+    padding-top: 50px;
+    display:flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+    color:rgb(6, 1, 1);
+
+}
+
+h1{
+    font-size:40px;
+}
+
+p{
+    font-size: 30px;
+}
+
+.categoria-videos{
+    gap: 50px;
+
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 70px;
+}
+
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
+}
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 5px solid rgb(246, 9, 246)
+}
+.categoria h2{
+    color:rgb(19, 12, 17)
+}
